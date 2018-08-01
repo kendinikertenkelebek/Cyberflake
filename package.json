@@ -1,0 +1,37 @@
+{
+  "name": "cyberflake",
+  "version": "1.0.0",
+  "description": "Generate Cyberflake ID's",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "./node_modules/nodemon/bin/nodemon.js test/test.js && eslint src",
+    "test": "node test/test.js && eslint src",
+    "lint:fix": "eslint --fix src"
+  },
+  "keywords": [
+    "cyberflake",
+    "snowflake",
+    "snowflake generator",
+    "ID generator"
+  ],
+  "os": [
+    "darwin",
+    "linux",
+    "win64"
+  ],
+  "engines": {
+    "node": ">=10.7.0",
+    "npm": ">=6.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.5",
+    "eslint": "^5.2.0",
+    "nodemon": "^1.18.3"
+  },
+  "homepage": "https://github.com/kendinikertenkelebek/Cyberflake#readme",
+  "bugs": {
+    "url": "https://github.com/kendinikertenkelebek/Cyberflake/issues"
+  },
+  "author": "Yankı Küçük <kendinikertenkelebek@me.com>",
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,19 @@
+
+# Packages
+node_modules/
+yarn.lock
+
+# Log files
+logs/
+*.log
+
+# Miscellaneous
+.github/
+.vscode/
+test/
+
+# NPM ignore
+.eslintrc
+.gitattributes
+.gitignore
+.travis.yml
