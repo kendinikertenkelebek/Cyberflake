@@ -58,6 +58,10 @@ _cyberflake_ is currently extended with the following plugins. Instructions on h
 | Eslint      | [plugins/eslint/README.md][plge]          |
 | Nodemon     | [plugins/nodemon/README.md][plgn]         |
 
+### Semantic Versioning
+
+We're using [SemVer][semver] for this project.
+
 ### Development
 
 Want to contribute? Great!
@@ -87,6 +91,7 @@ And you can see also all contributors [here][contributors].
 [pldt]: https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/README.md
 [plge]: https://github.com/eslint/eslint/blob/master/README.md
 [plgn]: https://github.com/remy/nodemon/blob/master/README.md
+[semver]: https://semver.org
 [yk]: https://twitter.com/seviyorumstop
 [contributors]: https://github.com/kendinikertenkelebek/Cyberflake/graphs/contributors
 
