@@ -7,7 +7,7 @@ cyberflake was developing for CyberEngine. And now, she is **opensource**! cyber
 ### Installation
 
 _cyberflake_ requires [Node.js](https://nodejs.org/) v10+ to run.
-**only aviable on npm (for now!)**
+**only available on npm (for now!)**
 
 ```sh
 $ npm i cyberflake -S
