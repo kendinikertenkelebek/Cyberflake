@@ -1,12 +1,12 @@
 ---
 name: Bug report
-about: Report incorrect or unexpected behavior of Cyberflake
+about: Report incorrect or unexpected behavior of cyberflake
 
 ---
 
 <!--
-If you need help with Cyberflake installation or usage, please go to the Cyberflake Discord server instead:
-  https://discord.gg/7PepvrJ
+If you need help with cyberflake installation or usage, please go to the cyberflake Discord server instead:
+  https://discord.gg/Sc3TFvq
 This issue tracker is only for bug reports and enhancement suggestions. You won't receive any basic help here.
 -->
 
@@ -19,7 +19,7 @@ This issue tracker is only for bug reports and enhancement suggestions. You won'
 
 **Further details:**
 
-- Cyberflake version:
+- cyberflake version:
 - node.js version:
 - Operating system:
 - Priority this issue should have – please be realistic and elaborate if possible:

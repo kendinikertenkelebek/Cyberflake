@@ -1,12 +1,12 @@
 ---
 name: Feature request
-about: Request a new feature that Cyberflake is missing
+about: Request a new feature that cyberflake is missing
 
 ---
 
 <!--
-If you need help with Cyberflake installation or usage, please go to the Cyberflake Discord server instead:
-  https://discord.gg/7PepvrJ
+If you need help with cyberflake installation or usage, please go to the cyberflake Discord server instead:
+  https://discord.gg/Sc3TFvq
 This issue tracker is only for bug reports and enhancement suggestions. You won't receive any basic help here.
 -->
 
