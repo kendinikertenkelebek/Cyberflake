@@ -8,6 +8,8 @@
     <a href="https://discord.gg/Sc3TFvq"><img src="https://discordapp.com/api/guilds/469879914313547776/embed.png" alt="Discord server" /></a>
     <a href="https://www.npmjs.com/package/cyberflake"><img src="https://img.shields.io/npm/v/cyberflake.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/cyberflake"><img src="https://img.shields.io/npm/dt/cyberflake.svg?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://www.codacy.com/project/kendinikertenkelebek/cyberflake/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kendinikertenkelebek/cyberflake&amp;utm_campaign=Badge_Grade_Dashboard"><img src="https://api.codacy.com/project/badge/Grade/58c302f9bf2e4bc0be8915a4579423fa"/></a>
+    <a href="https://github.com/kendinikertenkelebek/cyberflake/issues"><img src="https://img.shields.io/github/issues/kendinikertenkelebek/cyberflake.svg" alt="cyberflake issues"></a>
     <a href="https://david-dm.org/kendinikertenkelebek/cyberflake"><img src="https://david-dm.org/kendinikertenkelebek/cyberflake/status.svg?maxAge=3600" alt="Dependencies" /></a>
   </p>
   <p>
