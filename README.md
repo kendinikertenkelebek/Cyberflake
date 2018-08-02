@@ -8,7 +8,7 @@
     <a href="https://discord.gg/Sc3TFvq"><img src="https://discordapp.com/api/guilds/469879914313547776/embed.png" alt="Discord server" /></a>
     <a href="https://www.npmjs.com/package/cyberflake"><img src="https://img.shields.io/npm/v/cyberflake.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/cyberflake"><img src="https://img.shields.io/npm/dt/cyberflake.svg?maxAge=3600" alt="NPM downloads" /></a>
-    <a href="https://david-dm.org/kendinikertenkelebek/cyberflake"><img src="https://img.shields.io/david/kendinikertenkelebek/cyberflake.svg?maxAge=3600" alt="Dependencies" /></a>
+    <a href="https://david-dm.org/kendinikertenkelebek/cyberflake"><img src="https://david-dm.org/kendinikertenkelebek/cyberflake/status.svg?maxAge=3600" alt="Dependencies" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/cyberflake/"><img src="https://nodei.co/npm/cyberflake.png?downloads=true&downloadRank=true&stars=true" alt="npm installnfo" /></a>
