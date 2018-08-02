@@ -45,17 +45,28 @@ const data = cyberflake.deconstruct('STRING_ID')
 console.log(data)
 ```
 
-### Altenative Usage
+### Altenative Usage Styles
 
 ```js
-// how to make an id
+/* first style */
 const { generate, deconstruct } = require('cyberflake')
 const id = generate()
 console.log(id)
 
-// how to deconstruct generated id to timestamp, date or binary
 const data = deconstruct('STRING_ID')
 console.log(data)
+```
+
+```js
+/* second style */
+const id = require('cyberflake').generate()
+console.log(id)
+```
+
+```js
+/* third style */
+const id = require('cyberflake').generate
+console.log(id())
 ```
 
 ### Technology

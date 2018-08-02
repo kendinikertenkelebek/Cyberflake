@@ -1,6 +1,6 @@
 const { idToBinary, binaryToID } = require('./util/converter');
 
-// epoch (2015-01-01T00:00:00.000Z)
+// epoch (2018-01-01T00:00:00.000Z)
 const EPOCH = 1514764800000;
 let INCREMENT = 0;
 
