@@ -29,7 +29,11 @@ _cyberflake_ requires [Node.js](https://nodejs.org/dist/latest) latest version t
 
 ```sh
 $ npm i cyberflake -S
-// or
+```
+
+or
+
+```sh
 $ yarn add cyberflake
 ```
 
