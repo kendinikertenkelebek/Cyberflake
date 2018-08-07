@@ -21,15 +21,16 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-cyberflake was developing for CyberEngine. And now, she is **opensource**! cyberflake generete id like Twitter's [snowflake][twitter] and deconstruct these genereted id's to original timesamp, date or binary.
+cyberflake was developing for CyberEngine. And now, she is **open source**! cyberflake generete id like Twitter's [snowflake][twitter] and deconstruct these genereted id's to original timesamp, date or binary.
 
 ### Installation
 
-_cyberflake_ requires [Node.js](https://nodejs.org/) v10+ to run.
-**only available on npm (for now!)**
+_cyberflake_ requires [Node.js](https://nodejs.org/dist/latest) latest version to run.
 
 ```sh
 $ npm i cyberflake -S
+// or
+$ yarn add cyberflake
 ```
 
 ### Usage
